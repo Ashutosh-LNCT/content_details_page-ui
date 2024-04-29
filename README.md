@@ -1,0 +1,1 @@
+# content_details_page-ui
